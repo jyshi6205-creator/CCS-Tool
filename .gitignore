@@ -1,0 +1,17 @@
+node_modules/
+*.tgz
+*.lock
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# CCS runtime files
+.ccs-tool.json
+.claude/
